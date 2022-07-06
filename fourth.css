@@ -1,0 +1,174 @@
+.offer {
+    margin:0;
+    height: 30px;
+    width: 100%;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 590;
+    background-image: linear-gradient(to right,
+        red 0% 13%,
+        green 25% 40%,
+        yellow 90% 100%
+    );
+}
+.home {
+    border: 5px solid red;
+    background-color: rgb(131, 182, 223);
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+    height: 80px;
+    margin: 20px auto;
+    padding-top: 10px;
+   
+}
+ul{
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    /* /* padding: 10px; */
+} 
+.container {
+    border: 2px solid black;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-top:40px ;
+    margin-right: 0;
+    margin-left: 0; 
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+}
+
+.box {
+    border: 2px solid green;
+    background-color: cyan;
+    border-radius: 10px;
+    width: 400px;
+    height: 90px;
+}
+.jee {
+    margin-top: 20px;
+    height: 30px;
+    color: black;
+    font-size: 20px;
+    text-align: center; 
+    text-decoration: underline;
+    background-image: linear-gradient(to right,
+        red 0% 13%,
+        yellow 25% 40%,
+        red 90% 100%
+    );
+}
+.container1 {
+    border: 2px solid black;
+   background-image: radial-gradient(
+       blue,
+       rgb(118, 221, 118)
+   );
+   display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top: 30px;
+    padding: 80px;
+}
+.box1 {
+    width: 240px;
+    height: 130px;
+    background-color: yellow;
+    border: 2px solid black;
+    text-decoration: underline;
+    border-radius: 10px;
+    text-align: center;
+    color: red;
+}
+.container2 {
+    border: 2px solid black;
+    margin-top: 30px;
+    position: relative;     
+}
+.one {
+    height: 40px; 
+    width: 100%; 
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 590;
+   background-color: red;
+   position: absolute;
+
+}
+.two {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    background-color: green;
+    width: 400px;
+    height: 90px;
+    font-weight: bold;
+    font-size: 19px;
+    position: absolute;
+    top: 5vh;
+}
+.three {
+    color: white;
+    margin-top: 20px;
+    background-color: blue;
+    width: 400px;
+    height: 90px;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 5vh;
+    left: 28rem;
+}
+.four {
+    color: white;
+    margin-top: 20px;
+    background-color: violet;
+    width: 400px;
+    height: 90px;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 5vh;
+    left: 57rem;
+}
+.five {
+    height: 280px;
+    width:100px;
+    background-color:black;
+    position: absolute;
+    top:5vh; 
+    right:0;
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+    margin-top: 20px;
+   
+   
+}
+.six {
+    height:125px;
+    width: 87%;
+    background-color: tomato;
+    position: absolute;
+    top:23vh;
+    color: white;
+    font-size: 20px;
+}
+.seven {
+    height: 30px;
+    width:100%;
+    position: absolute;
+    top: 47vh;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 10px;
+}
